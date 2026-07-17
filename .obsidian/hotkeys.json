@@ -1,0 +1,16 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "scroll-to-top:scroll-to-top": [
+    {
+      "modifiers": [],
+      "key": "PageUp"
+    }
+  ]
+}

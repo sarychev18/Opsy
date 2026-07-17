@@ -1,0 +1,9 @@
+{
+  "id": "scroll-to-top",
+  "name": "Scroll to Top",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Команда мгновенного перехода в начало текущей заметки — для назначения на PageUp.",
+  "author": "local",
+  "isDesktopOnly": false
+}

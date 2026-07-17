@@ -1,0 +1,15 @@
+# Локальное состояние UI Obsidian — своё на каждом устройстве, вызывает конфликты
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# Мусор ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Корзина Obsidian
+.trash/
+
+# Локальные настройки Claude Code (специфичны для машины)
+.claude/settings.local.json
