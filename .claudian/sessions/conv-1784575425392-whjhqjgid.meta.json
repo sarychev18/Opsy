@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784575425392-whjhqjgid",
+  "providerId": "claude",
+  "title": "Initiate conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784575425394,
+  "updatedAt": 1784575574278,
+  "lastResponseAt": 1784575574278,
+  "sessionId": "6fc3ef87-5bad-46c0-bd36-dab1a4fe4b27",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "6fc3ef87-5bad-46c0-bd36-dab1a4fe4b27"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 705,
+    "cacheReadInputTokens": 21702,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 22415,
+    "percentage": 11
+  }
+}
