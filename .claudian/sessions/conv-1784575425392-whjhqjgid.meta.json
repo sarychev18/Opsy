@@ -4,8 +4,8 @@
   "title": "Initiate conversation",
   "titleGenerationStatus": "success",
   "createdAt": 1784575425394,
-  "updatedAt": 1784623967380,
-  "lastResponseAt": 1784623967380,
+  "updatedAt": 1784624841928,
+  "lastResponseAt": 1784624841928,
   "sessionId": "6fc3ef87-5bad-46c0-bd36-dab1a4fe4b27",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 441,
-    "cacheReadInputTokens": 61855,
+    "cacheCreationInputTokens": 1854,
+    "cacheReadInputTokens": 63354,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 62304,
-    "percentage": 31
+    "contextTokens": 65216,
+    "percentage": 33
   }
 }
