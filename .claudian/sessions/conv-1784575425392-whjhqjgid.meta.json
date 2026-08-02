@@ -4,10 +4,10 @@
   "title": "Initiate conversation",
   "titleGenerationStatus": "success",
   "createdAt": 1784575425394,
-  "updatedAt": 1785693939604,
+  "updatedAt": 1785695875685,
   "lastResponseAt": 1785693939604,
   "sessionId": "6fc3ef87-5bad-46c0-bd36-dab1a4fe4b27",
-  "selectedModel": "haiku",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "6fc3ef87-5bad-46c0-bd36-dab1a4fe4b27"
   },
