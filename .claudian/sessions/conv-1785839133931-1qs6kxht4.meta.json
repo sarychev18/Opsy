@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785839133931-1qs6kxht4",
+  "providerId": "claude",
+  "title": "Update Obsidian via hit",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785839133958,
+  "updatedAt": 1785839456872,
+  "lastResponseAt": 1785839456872,
+  "sessionId": "d314f82c-d3e9-421d-bf4a-80ca7628c794",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "d314f82c-d3e9-421d-bf4a-80ca7628c794"
+  },
+  "currentNote": "IT/0_Все вопросы/0_Вся теория.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1778,
+    "cacheReadInputTokens": 38996,
+    "contextWindow": 1000000,
+    "contextTokens": 40776,
+    "percentage": 4
+  }
+}

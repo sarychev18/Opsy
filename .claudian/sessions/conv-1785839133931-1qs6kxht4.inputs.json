@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785839133931-1qs6kxht4",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785839134347-5tujtjq",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785839133927-dqtjzz3",
+      "timestamp": 1785839133927,
+      "rawDisplayText": "обнови через hit этот обсидиан,",
+      "canonicalText": "обнови через hit этот обсидиан,",
+      "context": {
+        "currentNote": {
+          "path": "IT/0_Все вопросы/0_Вся теория.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "320d53d0ec3eaa3d233aba0726116a0b657bc5fddcfff3ce21d507d99022a52d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785839151969-g6wgf7e",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785839151965-4a1sdf1",
+      "timestamp": 1785839151965,
+      "rawDisplayText": "обнови через гит заметки",
+      "canonicalText": "обнови через гит заметки",
+      "images": [],
+      "contentDigest": "1133d23ff66f2a93d4d0c3af102039c015cfcc16a15ff75ccbb312c305cd44ba",
+      "providerUserMessageId": "cb8e1335-bb3d-4b30-828b-e75b7d9f8f92",
+      "providerAssistantMessageId": "76f8ad62-19c5-43b2-a11c-f458866c47e2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785839300227-l5a1i6s",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785839300224-xujkfld",
+      "timestamp": 1785839300224,
+      "rawDisplayText": "вот claudian",
+      "canonicalText": "вот claudian",
+      "images": [],
+      "contentDigest": "9ff69526f03791a447b4e02269ffd6b61cf2738e581df30deadd5ecadbc230ff",
+      "providerUserMessageId": "f661d9f2-232c-464c-b6a3-1e80e26d2299"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785839321989-w9zfsqf",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785839321983-c9lgql1",
+      "timestamp": 1785839321983,
+      "rawDisplayText": "https://github.com/sarychev18/Opsy",
+      "canonicalText": "https://github.com/sarychev18/Opsy",
+      "images": [],
+      "contentDigest": "1199dfb21fd94334a8267dfe6c9b55e99b7407dafa178cf47a61d48b8de1437a",
+      "providerUserMessageId": "a63955eb-8fcb-4d56-9d13-b9d202caa9d3",
+      "providerAssistantMessageId": "90e777a0-7515-4d8b-bb8d-24423cf6f4b9"
+    }
+  ]
+}
